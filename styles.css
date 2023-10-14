@@ -1,0 +1,13 @@
+.flex-container {
+    display: flex;
+    background-color: #fffefe;
+    padding: 4px;
+  }
+  
+  .flex-container > div {
+    background-color: #ffffff;
+    margin: 6px;
+    padding: 6px;
+    font-size: 18px;
+  }
+  
